@@ -1,8 +1,8 @@
 # ToLearn
 
 ## Languages
-- [] Go
-- [] Rust
+- [ ] Go
+- [ ] Rust
 
 ## Github
 - [x] Github Styling
