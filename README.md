@@ -8,3 +8,6 @@
 
 ## Github
 - [x] Github Styling
+
+## Concepts
+- [ ] Object Oriented Programming
