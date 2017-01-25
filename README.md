@@ -8,6 +8,7 @@
 
 ## Github
 - [x] Github Styling
+- [ ] Jekyll Github Pages
 
 ## Concepts
 - [ ] Object Oriented Programming
