@@ -25,3 +25,9 @@
 - [ ] Torch
 - [ ] CNTK
 - [ ] Theano
+
+## Android App
+- [ ] Simple Android App
+
+## Windows Application
+- [ ] Simple Windows Application
