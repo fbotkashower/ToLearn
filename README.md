@@ -1,6 +1,8 @@
 # ToLearn
 
 ## Languages
+- [ ] C++
+- [ ] Java
 - [ ] Go
 - [ ] Rust
 - [ ] Windows Batch Scripting
