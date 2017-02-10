@@ -5,6 +5,7 @@
   - [x] Basic C++ Syntax
   - [ ] Object Oriented C++ Functionalities
   - [ ] STL
+- [ ] C#
 - [ ] Java
 - [ ] Go
 - [ ] Rust
