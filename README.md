@@ -2,6 +2,9 @@
 
 ## Languages
 - [ ] C++
+  - [x] Basic C++ Syntax
+  - [ ] Object Oriented C++ Functionalities
+  - [ ] STL
 - [ ] Java
 - [ ] Go
 - [ ] Rust
@@ -33,3 +36,6 @@
 
 ## Windows Application
 - [ ] Simple Windows Application
+
+## Other
+- [ ] BootStrap
